@@ -39,7 +39,7 @@ fun DetailScreen(
                 modifier = Modifier
                     .size(150.dp)
                     .wrapContentHeight(Alignment.CenterVertically)
-                    .height(155.dp)
+                    .height(150.dp)
                     .padding(8.dp)
                     .weight(5f)
             ) {
